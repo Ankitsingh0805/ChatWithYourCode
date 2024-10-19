@@ -3,7 +3,7 @@ Chat-with-your-code
 This project is a chatbot designed to enable users to interact with their codebase through the OpenAI Language Model (LLM). It leverages a Streamlit app to offer a simple and intuitive chat interface for user interaction.
 Features
 
-ChatGPT
+
 
 Users can input their OpenAI key and GitHub repository name. The repository is cloned, split into smaller sections, and embedded. LangChain is used to create a Q&A retriever, allowing users to chat with and ask questions about their code. The chat interface makes it easy to interact with the codebase.
 To use this codebase chatbot, follow these steps:
